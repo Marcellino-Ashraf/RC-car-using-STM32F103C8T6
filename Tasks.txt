@@ -1,0 +1,21 @@
+Software:
+1- stm.h
+2- bluetooth.c
+3- bluetooth.h
+4- stmConfig.c
+5- stmConfig.h
+6- main.c
+7- driver.c
+8- driver.h
+9- mobile app
+
+Simulation:
+1-Implement on proteus
+2-Debug on keil
+
+Hardware:
+1- kit (body and motors)
+2- drivers (L298)*2
+3- bluetooth module
+4- stm32f103c8
+5- power supply
